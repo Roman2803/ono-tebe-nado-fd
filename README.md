@@ -1,1 +1,1 @@
-https://github.com/Roman2803/ono-tebe-nado
+https://github.com/Roman2803/ono-tebe-nado-fd
