@@ -315,8 +315,9 @@
 }
 
 .footer_menu-link {
-  list-style-type: none;
   text-underline-offset: 3px;
+  list-style-type: none;
+  
 }
 
 .footer_links {
