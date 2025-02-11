@@ -106,19 +106,15 @@
 
 .align-text_center {
   position: relative;
-  
   text-transform: uppercase;
   text-align: center;
   line-height: 125px;
-  
 }
 
 .align-text_right {
   display: flex;
   text-transform: uppercase;
-  
   line-height: 115px; 
-  
   justify-content: space-evenly;
   padding-left: 663px; 
   padding-right: 50px;
